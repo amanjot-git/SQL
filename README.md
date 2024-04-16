@@ -1,1 +1,1 @@
-# SQL
+# SQL Data Science Infinity Learning
